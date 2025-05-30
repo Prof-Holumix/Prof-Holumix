@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Oluwatobi
 
-<!--
-**Prof-Holumix/Prof-Holumix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **MERN Stack Developer** who enjoys building full-stack web applications that are fast, responsive, and scalable. I code in both **JavaScript** and **TypeScript**, and I'm always learning something new!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, Bootstrap, Material UI, TypeScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Stack**: MERN (MongoDB, Express.js, React, Node.js)
+
+## 🚀 Projects
+
+### 🔗 Pulse
+(https://github.com/your-username/pulse)
+A full-stack web application built using the MERN stack. It's a telegram mining project, complete CRUD operations, User authentication using JWT and bcrypt & real time update.
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/oluwatobi-olatunde-32bb65220)
+
+Thanks for stopping by! 🌟
